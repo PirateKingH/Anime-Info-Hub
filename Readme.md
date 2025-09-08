@@ -46,7 +46,7 @@ Anime-Info-Hub/
 ## ⚙️ Installation and Setup
 
 ### 🔹 Backend
-```bash
+bash
 cd backend
 npm install
 npm run dev
@@ -59,6 +59,14 @@ npm start
 🔹MongoDB must be running locally:
 mongod --dbpath C:\data\db
 
+----
+📷 Screenshots
+ See- https://github.com/PirateKingH/Anime-Info-Hub/tree/main/images
+---
+📜 Project Report
+See- https://github.com/PirateKingH/Anime-Info-Hub/blob/main/Anime_Info_Hub_Project_Report.pdf
+
+
 ✨ Experience
 This project helped me learn about:
 REST APIs
@@ -66,5 +74,6 @@ React component design
 Database connection with MongoDB
 Git & GitHub workflow
 
+---
 👤 Author
 Himanshu Dwivedi
